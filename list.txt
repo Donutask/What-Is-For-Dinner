@@ -1,0 +1,557 @@
+Barbecue chicken
+Beef stew
+Bison burgers
+Grilled buffalo
+Cheeseburgers
+Burrito bowls
+Roast chicken
+Chili con carne
+Couscous with vegetables
+Crab cakes
+Duck a l'orange
+Eggplant Parmesan
+Falafel wraps
+Baked fish
+Frijoles charros
+Ham and cheese casserole
+Kielbasa with sauerkraut
+Grilled lamb chops
+Lasagna
+Lentil soup
+Liver and onions
+Macaroni and cheese
+Meatballs in marinara sauce
+Meatloaf with mashed potatoes
+Miso soup with tofu
+Moose steak
+Mutton curry
+Chicken noodle soup
+Spaghetti Bolognese
+Squash casserole
+Beef stew
+Pork chops with applesauce
+Baked potatoes with toppings
+Quinoa salad
+Ravioli in Alfredo sauce
+Roast beef with gravy
+Sausage and peppers
+Seafood paella
+Vegetarian spaghetti
+Squash risotto
+Venison stew
+Wonton soup
+BBQ ribs
+Braised short ribs
+Chicken Alfredo
+Clam chowder
+Corned beef and cabbage
+Creamy mushroom pasta
+Eggplant lasagna
+Fish tacos
+Fried chicken
+Greek salad with grilled chicken
+Grilled salmon
+Gyro wraps
+Jambalaya
+Lamb stew
+Lobster tail
+Mushroom risotto
+Pad Thai
+Pesto pasta
+Pork tenderloin
+Pumpkin soup
+Ratatouille
+Risotto primavera
+Salmon burgers
+Shrimp scampi
+Soba noodle stir-fry
+Spinach and feta stuffed chicken
+Sushi rolls
+Tofu stir-fry
+Turkey meatballs
+Veggie burgers
+Beef tacos
+Chicken fajitas
+Baked ziti
+Seafood gumbo
+Pulled pork sandwiches
+Teriyaki chicken
+Veggie stir-fry
+Margherita pizza
+Chicken pot pie
+Beef enchiladas
+Pork schnitzel
+Shrimp and grits
+Chicken Marsala
+Bangers and mash
+Shepherd's pie
+Chicken tikka masala
+Stuffed bell peppers
+Sweet and sour chicken
+Tandoori chicken
+Tuna casserole
+Turkey chili
+Vegetarian chili
+Chicken and dumplings
+Fish and chips
+Lamb kebabs
+Shrimp fried rice
+Spaghetti carbonara
+Vegetable curry
+Chicken cacciatore
+Fettuccine Alfredo
+BBQ pulled chicken
+Beef stroganoff
+Grilled cheese and tomato soup
+Herb-roasted chicken
+Pork fried rice
+Shrimp stir-fry
+Slow cooker pot roast
+Stuffed pork chops
+Thai green curry
+Vegan Buddha bowl
+Chicken shawarma
+Beef kebabs
+Baked salmon with dill
+Garlic butter shrimp
+Chicken Parmesan
+Philly cheesesteak
+Cajun chicken pasta
+Turkey breast with cranberry sauce
+Spinach lasagna
+Chicken Caesar salad
+Beef wellington
+Chicken stir-fry
+Grilled tofu with vegetables
+Shrimp gumbo
+Chicken fried steak
+Beef bourguignon
+Chicken quesadillas
+French onion soup
+Chicken and waffles
+Lobster mac and cheese
+Black bean burgers
+Chicken enchiladas
+Pork carnitas
+Shrimp and broccoli Alfredo
+Grilled portobello mushrooms
+Vegetarian stuffed peppers
+Chicken fried rice
+Tuna melt
+Chicken tortilla soup
+Spaghetti with meat sauce
+Baked chicken wings
+Pork roast with vegetables
+Shrimp tacos
+Grilled vegetable platter
+Salmon with lemon butter
+Chicken pho
+Beef and broccoli stir-fry
+Vegetarian pad Thai
+Sausage and bean casserole
+Chicken lettuce wraps
+Lentil curry
+Turkey pot pie
+Chicken and rice casserole
+BBQ chicken pizza
+Teriyaki beef
+Shrimp po' boys
+Vegetable stir-fry
+Chicken noodle casserole
+Pork belly buns
+BBQ shrimp
+Garlic roasted chicken
+Beef fajitas
+Mushroom stroganoff
+Vegetarian tacos
+Chicken and sausage gumbo
+Teriyaki salmon
+Beef tacos al pastor
+Pork ribs with BBQ sauce
+Chicken souvlaki
+Shrimp and sausage jambalaya
+Roasted vegetable pasta
+Chicken curry
+Beef and potato hash
+Spinach and ricotta stuffed shells
+Turkey meatloaf
+Pork and apple stew
+Shrimp linguine
+Chicken fried rice
+Beef gyros
+Grilled shrimp skewers
+Roasted turkey breast
+Vegetarian lasagna
+Chicken kabobs
+Beef stir-fry with vegetables
+Chicken and mushroom risotto
+Pork tamales
+Shrimp bisque
+Chicken fried rice
+Beef shepherd's pie
+Chicken and vegetable skewers
+Pork belly tacos
+Shrimp ceviche
+Chicken satay
+Beef and bean chili
+Pork fried rice
+Shrimp pad Thai
+Chicken fajita bowls
+Beef and barley soup
+Pork enchiladas
+Shrimp risotto
+Chicken and wild rice soup
+Beef burrito bowls
+Pork and bean stew
+Shrimp tempura
+Chicken and spinach stuffed pasta
+Beef and vegetable stir-fry
+Pork schnitzel with mashed potatoes
+Shrimp and vegetable skewers
+Chicken and sweet potato curry
+Beef chili
+Pork and vegetable stir-fry
+Shrimp chowder
+Chicken and quinoa salad
+Beef and black bean chili
+Pork and cabbage stew
+Shrimp and rice pilaf
+Chicken and black bean tacos
+Beef stir-fry with noodles
+Pork and pineapple skewers
+Shrimp and corn chowder
+Chicken and vegetable curry
+Beef and lentil soup
+Pork and tomato stew
+Shrimp and broccoli stir-fry
+Chicken and avocado salad
+Beef and sweet potato chili
+Pork and mushroom stir-fry
+Shrimp and asparagus risotto
+Chicken and broccoli Alfredo
+Beef and vegetable soup
+Pork and apple casserole
+Shrimp and zucchini noodles
+Chicken and butternut squash stew
+Beef and carrot stew
+Pork and lentil curry
+Shrimp and tomato pasta
+Chicken and cauliflower rice
+Beef and pea stew
+Pork and vegetable soup
+Shrimp and spinach salad
+Chicken and mango salad
+Beef and mushroom casserole
+Pork and sweet potato stew
+Shrimp and vegetable stir-fry
+Chicken and black bean salad
+Beef and broccoli soup
+Pork and kale stew
+Shrimp and quinoa stir-fry
+Chicken and lentil salad
+Beef and bean casserole
+Pork and broccoli soup
+Shrimp and avocado salad
+Chicken and potato curry
+Beef and mushroom stew
+Pork and cauliflower stir-fry
+Shrimp and vegetable curry
+Chicken and green bean salad
+Beef and cabbage stew
+Pork and carrot stir-fry
+Shrimp and rice stir-fry
+Chicken and chickpea curry
+Beef and kale soup
+Pork and pea stir-fry
+Shrimp and sweet potato curry
+Chicken and tomato salad
+Beef and broccoli casserole
+Pork and lentil soup
+Shrimp and vegetable soup
+Chicken and squash curry
+Beef and vegetable stew
+Pork and black bean stir-fry
+Shrimp and tomato risotto
+Chicken and eggplant curry
+Beef and spinach soup
+Pork and potato stew
+Shrimp and corn stir-fry
+Chicken and chickpea salad
+Beef and rice stew
+Pork and vegetable casserole
+Shrimp and green bean stir-fry
+Chicken and sweet potato salad
+Beef and tomato soup
+Pork and mushroom soup
+Shrimp and pea stir-fry
+Chicken and black bean soup
+Beef and vegetable casserole
+Pork and spinach stir-fry
+Shrimp and zucchini stir-fry
+Chicken and broccoli stir-fry
+Beef and potato casserole
+Pork and kale soup
+Shrimp and carrot stir-fry
+Chicken and tomato soup
+Beef and lentil casserole
+Pork and broccoli stir-fry
+Shrimp and potato stir-fry
+Chicken and vegetable stew
+Beef and cauliflower soup
+Pork and pea soup
+Shrimp and mushroom stir-fry
+Chicken and rice stir-fry
+Beef and tomato casserole
+Pork and sweet potato stir-fry
+Shrimp and squash stir-fry
+Chicken and lentil soup
+Beef and vegetable curry
+Pork and bean stir-fry
+Shrimp and spinach stir-fry
+Chicken and mushroom soup
+Beef and broccoli stir-fry
+Pork and vegetable stew
+Shrimp and chickpea curry
+Chicken and potato soup
+Beef and carrot casserole
+Pork and lentil stir-fry
+Shrimp and pea curry
+Chicken and spinach stir-fry
+Beef and sweet potato soup
+Pork and vegetable curry
+Shrimp and zucchini curry
+Chicken and mushroom stir-fry
+Beef and vegetable stir-fry
+Pork and chickpea curry
+Shrimp and broccoli curry
+Chicken and tomato curry
+Beef and potato stir-fry
+ Eggplant Parmesan
+Stuffed bell peppers
+Vegetarian lasagna
+Spinach and ricotta stuffed shells
+Chickpea curry
+Lentil soup
+Vegetable stir-fry with tofu
+Quinoa and black bean salad
+Margherita pizza
+Veggie burgers
+Ratatouille
+Caprese salad
+Mushroom risotto
+Grilled vegetable platter
+Cauliflower tacos
+Sweet potato and black bean enchiladas
+Pasta Primavera
+Butternut squash soup
+Greek salad with feta
+Falafel wraps
+Vegetable paella
+Veggie sushi rolls
+Broccoli and cheddar stuffed potatoes
+Eggplant moussaka
+Zucchini noodles with pesto
+Tomato basil soup
+Veggie quesadillas
+Caponata
+Polenta with mushrooms
+Spinach and cheese quiche
+Chickpea and vegetable tagine
+Stuffed acorn squash
+Eggplant and chickpea stew
+Vegetable pad Thai
+Tofu stir-fry
+Vegetable biryani
+Cauliflower steaks
+Black bean tacos
+Minestrone soup
+Vegetarian chili
+Portobello mushroom burgers
+Gnocchi with tomato sauce
+Grilled halloumi salad
+Mushroom stroganoff
+Spanakopita
+Indian potato and pea samosas
+Chickpea and spinach curry
+Vegetable pot pie
+Sweet potato and quinoa salad
+Frittata with vegetables
+Vegetable korma
+Three-bean chili
+Tofu tikka masala
+Sweet potato and black bean chili
+Broccoli and cheese casserole
+Ratatouille over polenta
+Spinach and artichoke stuffed mushrooms
+Eggplant rollatini
+Vegetarian stuffed cabbage
+Veggie pho
+Panzanella salad
+Spinach and feta stuffed peppers
+Tofu banh mi
+Zucchini fritters
+Mushroom and barley soup
+Asparagus and pea risotto
+Cauliflower and chickpea curry
+Tofu and vegetable skewers
+Tomato and mozzarella stuffed zucchini
+Vegetable sushi bowl
+Creamy tomato basil pasta
+Baked falafel with tahini sauce
+Sweet potato gnocchi
+Veggie calzones
+Mushroom and spinach quesadillas
+Lemon asparagus pasta
+Stuffed portobello mushrooms
+Vegan jambalaya
+Vegetarian shepherd's pie
+Vegetable empanadas
+Kale and white bean stew
+Black bean and corn enchiladas
+Butternut squash risotto
+Lentil and vegetable stew
+Roasted vegetable tart
+Pesto pasta with cherry tomatoes
+Grilled corn and avocado salad
+Sweet potato and black bean tacos
+Roasted red pepper and goat cheese quiche
+Chickpea and vegetable stew
+Roasted vegetable pizza
+Spinach and mushroom lasagna
+Eggplant and tomato pasta
+Chickpea and quinoa salad
+Zucchini and corn fritters
+Cauliflower fried rice
+Veggie burrito bowls
+Lentil loaf
+Mushroom and spinach stuffed peppers
+Sweet potato and kale hash
+Moroccan vegetable tagine
+Coconut curry with tofu
+Spinach and ricotta gnocchi
+Vegetable enchiladas with green sauce
+Spaghetti squash with marinara sauce
+Black bean and sweet potato burgers
+Asparagus and lemon pasta
+Roasted beet salad with goat cheese
+Butternut squash and black bean chili
+Tomato and zucchini gratin
+Broccoli and almond stir-fry
+Chickpea and avocado salad
+Sweet potato and chickpea curry
+Spinach and cheese stuffed shells
+Cauliflower and potato curry
+Roasted vegetable lasagna
+Mushroom and lentil burgers
+Zucchini and tomato pasta
+Quinoa and vegetable stir-fry
+Stuffed bell peppers with rice and beans
+Butternut squash and spinach risotto
+Chickpea and vegetable stir-fry
+Eggplant and tomato stew
+Vegetable and tofu kebabs
+Sweet potato and lentil curry
+Cauliflower mac and cheese
+Tomato and mozzarella tart
+Spinach and ricotta cannelloni
+Zucchini and mushroom frittata
+Broccoli and cheese stuffed shells
+Black bean and corn salad
+Roasted vegetable and quinoa salad
+Mushroom and barley risotto
+Sweet potato and black bean burritos
+Spinach and artichoke pasta
+Chickpea and vegetable curry
+Veggie and cheese stuffed pasta shells
+Roasted butternut squash and kale salad
+Zucchini and ricotta lasagna
+Cauliflower and chickpea tacos
+Roasted vegetable and hummus wrap
+Sweet potato and kale enchiladas
+Mushroom and spinach stuffed pasta
+Chickpea and spinach salad
+Zucchini and corn pasta
+Broccoli and tofu stir-fry
+Roasted vegetable and feta tart
+Sweet potato and black bean stuffed peppers
+Mushroom and lentil shepherd's pie
+Zucchini and tomato casserole
+Quinoa and black bean stuffed zucchini
+Spinach and mushroom stuffed eggplant
+Cauliflower and potato tacos
+Roasted vegetable and goat cheese pizza
+Sweet potato and black bean salad
+Mushroom and spinach stuffed acorn squash
+Zucchini and chickpea stew
+Broccoli and cheese stuffed potatoes
+Roasted vegetable and quinoa bowl
+Sweet potato and lentil stew
+Spinach and artichoke stuffed zucchini
+Cauliflower and chickpea stew
+Roasted vegetable and barley salad
+Zucchini and black bean enchiladas
+Broccoli and mushroom stir-fry
+Sweet potato and kale salad
+Mushroom and lentil stuffed peppers
+Cauliflower and potato stew
+Roasted vegetable and tofu salad
+Zucchini and tomato stew
+Spinach and chickpea stuffed peppers
+Sweet potato and black bean tacos
+Broccoli and cheese stuffed zucchini
+Cauliflower and chickpea salad
+Roasted vegetable and lentil stew
+Zucchini and mushroom risotto
+Spinach and ricotta stuffed eggplant
+Sweet potato and kale stew
+Mushroom and barley salad
+Broccoli and tofu curry
+Cauliflower and potato gratin
+Roasted vegetable and chickpea salad
+Zucchini and black bean soup
+Spinach and artichoke quiche
+Sweet potato and lentil salad
+Mushroom and lentil stew
+Broccoli and cheese stuffed peppers
+Cauliflower and chickpea curry
+Roasted vegetable and quinoa stew
+Zucchini and tomato pasta
+Spinach and ricotta stuffed zucchini
+Sweet potato and black bean stew
+Mushroom and barley soup
+Broccoli and tofu stir-fry
+Cauliflower and potato salad
+Roasted vegetable and lentil salad
+Zucchini and mushroom stew
+Spinach and chickpea curry
+Sweet potato and black bean casserole
+Mushroom and lentil soup
+Broccoli and cheese stuffed eggplant
+Cauliflower and chickpea stir-fry
+Roasted vegetable and barley stew
+Zucchini and tomato salad
+Spinach and ricotta stuffed peppers
+Sweet potato and kale curry
+Mushroom and lentil salad
+Broccoli and tofu soup
+Cauliflower and potato stir-fry
+Roasted vegetable and chickpea stew
+Zucchini and black bean salad
+Spinach and artichoke stuffed peppers
+Sweet potato and lentil soup
+Mushroom and barley curry
+Broccoli and cheese stuffed zucchini
+Cauliflower and chickpea stew
+Roasted vegetable and lentil soup
+Zucchini and tomato stir-fry
+Spinach and ricotta stuffed acorn squash
+Sweet potato and black bean salad
+Mushroom and lentil curry
+Broccoli and tofu stir-fry
+Cauliflower and potato soup
+Roasted vegetable and barley soup
+Zucchini and black bean stew
+Spinach and chickpea stuffed zucchini
+Sweet potato and kale salad
+Mushroom and barley stew
+Pasta
